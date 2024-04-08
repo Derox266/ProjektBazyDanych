@@ -4,11 +4,11 @@ Opis: System Rezerwacji Biletów Online ma na celu umożliwienie użytkownikom p
  
 Przykładowe tabele:
  
--Użytkownicy  
- -Wydarzenia
- -Miejsca
- -Rezerwacje
- -Miejsca na wydarzeniu
+- Użytkownicy  
+- Wydarzenia
+- Miejsca
+- Rezerwacje
+- Miejsca na wydarzeniu
 
 
 Możliwe funkcjonalności:
